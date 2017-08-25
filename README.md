@@ -21,4 +21,4 @@ Change this line in testgeojson.html to your url and open it without cors.
 
 ```
 var geojson = 'https://github.com/apisit/thailand.json/blob/master/thailand.json?raw=true'
-``
+```
